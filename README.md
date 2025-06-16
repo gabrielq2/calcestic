@@ -27,11 +27,3 @@ Fully draggable and styled using titlebar.js and Electron IPC
 HTML tabs for each section (Grouped, Discrete, Probability)
 
 External CSS (disc.css, prog.css) and JS files for maintainability
-
-git clone https://github.com/gabrielq2/calcestic
-
-cd calcestic
-
-npm install
-
-npm start
